@@ -83,7 +83,7 @@ This repository contains the configuration and reference architecture for buildi
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/pyrocluster.git
+    git clone https://github.com/chmj/pyrocluster.git
     cd pyrocluster
     ```
 2.  **Configure Environment Variables:**
